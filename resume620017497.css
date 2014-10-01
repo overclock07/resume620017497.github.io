@@ -1,0 +1,29 @@
+
+/* CSS Document */
+/* 620017497 */
+
+body{background: #D5D6D2;}
+
+.table-tab{
+	width:100%;
+    margin-left:15%;
+	}
+.pic-style{
+	position:absolute;
+	border: 5px solid #55A660;
+	border-style: dashed;
+	height: 200px;
+	margin-left:60%;
+	margin-top: -20px;
+    -ms-transform: rotate(30deg); 
+    -webkit-transform: rotate(30deg);	
+	transform:rotate(30deg);
+	}
+
+
+footer{background: #55A660; height: 40px}
+
+.vl {
+border-left:1px solid #A09DA1;
+padding-left: 2em;
+}
